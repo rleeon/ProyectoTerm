@@ -7,8 +7,11 @@ neofetchjoke is a simple script in bash, this script start "neofetch" with diffe
 To install only:
 
 sudo apt install neofetch xdotool xterm
+
 git clone https://github.com/rleeon/neofetchjoke
+
 cd neofetchjoke
+
 bash install.sh
 
 And next only write in your terminal "neofetchjoke"
