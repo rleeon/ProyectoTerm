@@ -5,12 +5,12 @@
 #  | |_) || |   | |  | |  _ < _   | || | | \__ \ | (_| |  __/ |   
 #  |____/ |_|   |_|  |_|_| \_(_) |___|_| |_|___/_|\__,_|\___|_|   
                                                                
-TERMINAL="xterm"
+TERMINAL="xterm" # Uso xterm debido a que gnome-terminal da errores por multiples causas, ademas de el menor consumo de recursos.
 
 NEO="neofetch --ascii_distro"
 
 DISTROS=("arch" "debian" "fedora" "gentoo" "ubuntu" "manjaro" "opensuse" "void" "alpine" "pop_os" "elementary" "kali" "parrot" "slackware" "nixos")
-
+ 
 SCREEN_WIDTH=1920 # Estos cuatro parametros estan para simplemente modificar el tamaño de las ventanas que saltan.
 SCREEN_HEIGHT=1080 # -  
 WINDOW_WIDTH=600 # --
