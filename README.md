@@ -6,12 +6,13 @@ neofetchjoke is a simple script in bash, this script start "neofetch" with diffe
 
 To install only:
 
-sudo apt install neofetch xdotool xterm
-
 git clone https://github.com/rleeon/neofetchjoke
 
 cd neofetchjoke
 
+./install.sh
+or
 bash install.sh
 
 And next only write in your terminal "neofetchjoke"
+If u want u can Star the repo or follow me on GitHub :P
