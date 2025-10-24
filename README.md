@@ -11,11 +11,13 @@ git clone https://github.com/rleeon/neofetchjoke
 cd neofetchjoke
 
 ####Choose one###
+
 ./install.sh
 
 or
 
 bash install.sh
+
 #################
 
 And next only write in your terminal "neofetchjoke"
